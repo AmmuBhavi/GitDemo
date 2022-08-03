@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-17T11:48:57 IST" name="Suite" finished-at="2022-07-17T11:48:57 IST" duration-ms="78">
+    <groups>
+    </groups>
+    <test started-at="2022-07-17T11:48:57 IST" name="Test" finished-at="2022-07-17T11:48:57 IST" duration-ms="78">
+      <class name="Ammulu.Maven1.RestAPITest">
+        <test-method signature="Deletedtwitter()[pri:0, instance:Ammulu.Maven1.RestAPITest@68999068]" started-at="2022-07-17T11:48:57 IST" name="Deletedtwitter" finished-at="2022-07-17T11:48:57 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletedtwitter -->
+        <test-method signature="Postjira()[pri:0, instance:Ammulu.Maven1.RestAPITest@68999068]" started-at="2022-07-17T11:48:57 IST" name="Postjira" finished-at="2022-07-17T11:48:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postjira -->
+      </class> <!-- Ammulu.Maven1.RestAPITest -->
+      <class name="Ammulu.Maven1.SeleniumTest">
+        <test-method signature="Browserautomtion()[pri:0, instance:Ammulu.Maven1.SeleniumTest@6a192cfe]" started-at="2022-07-17T11:48:57 IST" name="Browserautomtion" finished-at="2022-07-17T11:48:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserautomtion -->
+        <test-method signature="Elementsui()[pri:0, instance:Ammulu.Maven1.SeleniumTest@6a192cfe]" started-at="2022-07-17T11:48:57 IST" name="Elementsui" finished-at="2022-07-17T11:48:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Elementsui -->
+      </class> <!-- Ammulu.Maven1.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
